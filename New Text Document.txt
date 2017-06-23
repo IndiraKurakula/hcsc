@@ -1,0 +1,23 @@
+hi Account Number: 50100052098678
+IFSC Code: HDFC0002777
+Bank & Branch: HDFC BANK/ KORAMANGALA Branch BANGALORE
+
+
+
+
+
+https://avaldes.com/restful-web-services-with-angularjs-bootstrap-and-java-using-jax-rs-and-jersey/
+
+
+
+
+https://www.genuitec.com/connecting-angular-2-app-java-ee-backend/
+
+
+http://www.mkyong.com/webservices/jax-rs/json-example-with-jersey-jackson/
+
+
+https://www.mkyong.com/webservices/jax-rs/jersey-spring-integration-example/
+
+
+https://www.pivotaltracker.com/n/projects/2048481
